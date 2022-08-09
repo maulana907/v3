@@ -1,5 +1,5 @@
 {
-  "wait": "[ Wait] Sedang Di Proses...",
+  "wait": "*Tunggu Permintaan Anda Sedang Diproses*",
   "error": {
     "Iv": "Berikan Link Yang Sesuai Dengan Command",
     "api": "Maaf, Fitur Sedang Eror!, Cobalah Lagi"
