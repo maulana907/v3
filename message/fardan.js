@@ -959,7 +959,7 @@ let qqppp = [{
                     "type": "RESPONSE"
                 }]
                conn.sendMessage(from, {
-            caption: `Hai Kak @${sender.split('@')[0]}\n\nSaya ElainaBot, Bot WhatsApp yg membantu kamu untuk mempermudah sesuatu seperti Membuat Sticker dan Lainnya, Ada Butuh Info Dariku?`,
+            caption: `Hai Kak @${sender.split('@')[0]}\n\nSaya BabyBot, Bot WhatsApp yg membantu kamu untuk mempermudah sesuatu seperti Membuat Sticker dan Lainnya, Ada Butuh Info Dariku?`,
             location: {
                 jpegThumbnail: await reSize(setting.pathimg, 300,300)
             },
