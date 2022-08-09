@@ -1000,7 +1000,7 @@ let qqppp = [{
                 jpegThumbnail: await reSize(setting.pathimg, 300,300)
             },
             buttons: qqppp,
-            footer: `Bot Wangsaf By Pardan`,
+            footer: `Bot Wangsaf By Maulana`,
             mentions:[sender]
         },
     )
