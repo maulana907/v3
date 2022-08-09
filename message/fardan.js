@@ -89,7 +89,7 @@ let prefa = '#'
 
 // Mode
 let mode = 'public'
-let own2 = '6281523940672@s.whatsapp.net'
+let own2 = '6285710128853@s.whatsapp.net'
 
 // Type Menu
 let typemenu = 'buttons5'
