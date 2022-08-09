@@ -1086,7 +1086,7 @@ const sections = [
 const sendMsg =  await conn.sendMessage(
 from, 
 {
-text: `Hai kak @${sender.split('@')[0]},\nPilih Menu Elaina disini`,
+text: `Hai kak @${sender.split('@')[0]},\nPilih Menu BabyBot disini`,
 footer: "Jangan Lupa Donasi",
 title: `${ucapanWaktu}`,
 buttonText: "Pilih Di Sini",
